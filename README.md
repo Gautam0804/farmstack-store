@@ -4,7 +4,7 @@
 
 FarmStack is a full-stack e-commerce platform designed for farmers and buyers. It allows sellers to upload and manage products and buyers to browse, buy, add to cart, and purchase products. The project is built with React + Vite for the frontend and Node.js + Express + MongoDB for the backend.
 
-**Live Demo:** [https://farmstack-stores.netlify.app/](https://farmstack-stores.netlify.app/)  
+**Live:** [https://farmstack-stores.netlify.app/](https://farmstack-stores.netlify.app/)  
 **GitHub Repository:** [https://github.com/Gautam0804/farmstack-store](https://github.com/Gautam0804/farmstack-store)
 
 ---
