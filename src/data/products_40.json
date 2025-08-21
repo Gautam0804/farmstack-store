@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Fresh Mango",
+    "price": 50,
+    "category": "Fruits",
+    "location": "Nagpur, Maharashtra",
+    "image": "https://images.unsplash.com/photo-1574226516831-e1dff420e12b",
+    "sellerName": "Gautam Yadav",
+    "_id": "64d18516-eb0d-4dac-902b-2a5dde9ffd5a"
+  },
+  {
+    "name": "Fresh Apple",
+    "price": 70,
+    "category": "Fruits",
+    "location": "Shimla, Himachal Pradesh",
+    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+    "sellerName": "Gautam Yadav",
+    "_id": "da6f768a-514e-4345-9d63-6931c0f913b7"
+  },
+  {
+    "name": "Fresh Banana",
+    "price": 25,
+    "category": "Fruits",
+    "location": "Madurai, Tamil Nadu",
+    "image": "https://images.unsplash.com/photo-1574226516831-e1dff420e12b",
+    "sellerName": "Gautam Yadav",
+    "_id": "98ea907c-333a-4676-9c12-26ee57afdd7b"
+  },
+  {
+    "name": "Fresh Grapes",
+    "price": 60,
+    "category": "Fruits",
+    "location": "Nasik, Maharashtra",
+    "image": "https://images.unsplash.com/photo-1615485927515-6f1dfb1d624b",
+    "sellerName": "Gautam Yadav",
+    "_id": "9d785974-78ce-4a0c-b0ef-5444c93a76ae"
+  },
+  {
+    "name": "Fresh Papaya",
+    "price": 33,
+    "category": "Fruits",
+    "location": "Ahmedabad, Gujarat",
+    "image": "https://images.unsplash.com/photo-1625945907030-b96e85009937",
+    "sellerName": "Gautam Yadav",
+    "_id": "9d346dfa-2ac3-4aba-8d80-9edf228f706e"
+  },
+  {
+    "name": "Fresh Pomegranate",
+    "price": 50,
+    "category": "Fruits",
+    "location": "Pune, Maharashtra",
+    "image": "https://images.unsplash.com/photo-1606813918199-b3bfb6d5768d",
+    "sellerName": "Gautam Yadav",
+    "_id": "cc65a869-7c26-456f-8470-9e35382c31eb"
+  },
+  {
+    "name": "Fresh Watermelon",
+    "price": 40,
+    "category": "Fruits",
+    "location": "Hyderabad, Telangana",
+    "image": "https://images.unsplash.com/photo-1625945907030-b96e85009937",
+    "sellerName": "Gautam Yadav",
+    "_id": "9eece000-2650-4e3f-b6f5-429649ab9de3"
+  },
+  {
+    "name": "Fresh Plum",
+    "price": 55,
+    "category": "Fruits",
+    "location": "Jammu, Jammu & Kashmir",
+    "image": "https://images.unsplash.com/photo-1626810455637-ef1c55846009",
+    "sellerName": "Gautam Yadav",
+    "_id": "f7754893-7a73-4a51-b531-21f68aa57903"
+  },
+  {
+    "name": "Fresh Apricot",
+    "price": 45,
+    "category": "Fruits",
+    "location": "Leh, Ladakh",
+    "image": "https://images.unsplash.com/photo-1626810454717-0094ad356bfd",
+    "sellerName": "Gautam Yadav",
+    "_id": "63d24d99-a456-497d-83b8-d42edf07b948"
+  },
+  {
+    "name": "Fresh Pear",
+    "price": 50,
+    "category": "Fruits",
+    "location": "Srinagar, Jammu & Kashmir",
+    "image": "https://images.unsplash.com/photo-1574226516831-e1dff420e12b",
+    "sellerName": "Gautam Yadav",
+    "_id": "c2d0d6d9-8cad-4944-bc55-248bcada2af1"
+  },
+  {
+    "name": "Fresh Tomato",
+    "price": 35,
+    "category": "Vegetables",
+    "location": "Bangalore, Karnataka",
+    "image": "https://images.unsplash.com/photo-1582281298057-b95c5843b118",
+    "sellerName": "Gautam Yadav",
+    "_id": "cf0ec695-8f9d-4718-af3e-8f8440a909e0"
+  },
+  {
+    "name": "Fresh Onion",
+    "price": 30,
+    "category": "Vegetables",
+    "location": "Nashik, Maharashtra",
+    "image": "https://images.unsplash.com/photo-1635276109300-8a8c1d31db64",
+    "sellerName": "Gautam Yadav",
+    "_id": "3c837f97-d9c6-44ad-9d03-af69c858191a"
+  },
+  {
+    "name": "Fresh Carrot",
+    "price": 40,
+    "category": "Vegetables",
+    "location": "Ooty, Tamil Nadu",
+    "image": "https://images.unsplash.com/photo-1585238341964-03f1d36a05c2",
+    "sellerName": "Gautam Yadav",
+    "_id": "4f0c7e85-84c5-447d-853a-d3d4ecc911ca"
+  },
+  {
+    "name": "Fresh Garlic",
+    "price": 100,
+    "category": "Vegetables",
+    "location": "Kota, Rajasthan",
+    "image": "https://images.unsplash.com/photo-1585237016551-1c2a6e3ee703",
+    "sellerName": "Gautam Yadav",
+    "_id": "2c2fbfb6-f7a5-4afc-9f77-ac76a999e5fe"
+  },
+  {
+    "name": "Fresh Ginger",
+    "price": 90,
+    "category": "Vegetables",
+    "location": "Gangtok, Sikkim",
+    "image": "https://images.unsplash.com/photo-1585237316565-fd8d2c30c2b7",
+    "sellerName": "Gautam Yadav",
+    "_id": "9e8394b1-a0c6-4abb-83b4-961529ac4c85"
+  },
+  {
+    "name": "Fresh Brinjal",
+    "price": 20,
+    "category": "Vegetables",
+    "location": "Bhopal, Madhya Pradesh",
+    "image": "https://images.unsplash.com/photo-1615452759025-969c6d7a0849",
+    "sellerName": "Gautam Yadav",
+    "_id": "408af502-04bb-4b65-bfe1-afee1aa80102"
+  },
+  {
+    "name": "Fresh Cabbage",
+    "price": 20,
+    "category": "Vegetables",
+    "location": "Siliguri, West Bengal",
+    "image": "https://images.unsplash.com/photo-1611080626919-f7fbc2281d8b",
+    "sellerName": "Gautam Yadav",
+    "_id": "5d461322-7a6b-446b-aaa2-f1393847ce5d"
+  },
+  {
+    "name": "Fresh Cauliflower",
+    "price": 32,
+    "category": "Vegetables",
+    "location": "Raipur, Chhattisgarh",
+    "image": "https://images.unsplash.com/photo-1585237266326-b0d327c71b3f",
+    "sellerName": "Gautam Yadav",
+    "_id": "25bf7ccc-e1c9-4638-b18a-6b55a727353c"
+  },
+  {
+    "name": "Fresh Broccoli",
+    "price": 45,
+    "category": "Vegetables",
+    "location": "Guwahati, Assam",
+    "image": "https://images.unsplash.com/photo-1585237257220-5cfb7487542f",
+    "sellerName": "Gautam Yadav",
+    "_id": "66f768fd-2da2-4cf0-b396-734131ac4dbb"
+  },
+  {
+    "name": "Fresh Spinach",
+    "price": 18,
+    "category": "Vegetables",
+    "location": "Lucknow, Uttar Pradesh",
+    "image": "https://images.unsplash.com/photo-1626810454884-490f8e6fc099",
+    "sellerName": "Gautam Yadav",
+    "_id": "ee65e7b1-9b94-4cb9-9646-c0a544ea5af7"
+  },
+  {
+    "name": "Fresh Ladyfinger",
+    "price": 25,
+    "category": "Vegetables",
+    "location": "Patna, Bihar",
+    "image": "https://images.unsplash.com/photo-1606914469313-2c98374bfb1e",
+    "sellerName": "Gautam Yadav",
+    "_id": "f9ba0aa8-539a-4509-8a60-128bc254659c"
+  },
+  {
+    "name": "Fresh Cucumber",
+    "price": 20,
+    "category": "Vegetables",
+    "location": "Ranchi, Jharkhand",
+    "image": "https://images.unsplash.com/photo-1601042837616-943487aa23ac",
+    "sellerName": "Gautam Yadav",
+    "_id": "1a82af49-2aed-4305-a322-618135de7766"
+  },
+  {
+    "name": "Fresh Zucchini",
+    "price": 30,
+    "category": "Vegetables",
+    "location": "Chandigarh",
+    "image": "https://images.unsplash.com/photo-1635911319804-e1e196f5924b",
+    "sellerName": "Gautam Yadav",
+    "_id": "b2f29f1b-a513-4bd7-bd7a-a3f84e511b95"
+  },
+  {
+    "name": "Fresh Turnip",
+    "price": 22,
+    "category": "Vegetables",
+    "location": "Kanpur, Uttar Pradesh",
+    "image": "https://images.unsplash.com/photo-1615484477262-4a9d648778df",
+    "sellerName": "Gautam Yadav",
+    "_id": "dcf45638-3a18-41a9-bc24-99e8c0649f86"
+  },
+  {
+    "name": "Fresh Wheat",
+    "price": 22,
+    "category": "Grains",
+    "location": "Jaipur, Rajasthan",
+    "image": "https://images.unsplash.com/photo-1591226385025-1ab67f9f470b",
+    "sellerName": "Gautam Yadav",
+    "_id": "c46953ff-752c-4a80-927f-5f9fe8c78ea7"
+  },
+  {
+    "name": "Fresh Rice",
+    "price": 28,
+    "category": "Grains",
+    "location": "Kolkata, West Bengal",
+    "image": "https://images.unsplash.com/photo-1590080875634-58c9769ee0bf",
+    "sellerName": "Gautam Yadav",
+    "_id": "9f10ed89-bc9b-48cc-b193-7eb28d9c7766"
+  },
+  {
+    "name": "Fresh Corn",
+    "price": 18,
+    "category": "Grains",
+    "location": "Indore, Madhya Pradesh",
+    "image": "https://images.unsplash.com/photo-1606813902764-3a7fd1cdd60f",
+    "sellerName": "Gautam Yadav",
+    "_id": "282b4867-5619-4624-928b-52e93530591b"
+  },
+  {
+    "name": "Fresh Barley",
+    "price": 34,
+    "category": "Grains",
+    "location": "Agra, Uttar Pradesh",
+    "image": "https://images.unsplash.com/photo-1632336923612-3ae939b6476b",
+    "sellerName": "Gautam Yadav",
+    "_id": "9f2513d2-9e10-427e-bf17-d76cf7325283"
+  },
+  {
+    "name": "Fresh Millet",
+    "price": 30,
+    "category": "Grains",
+    "location": "Thane, Maharashtra",
+    "image": "https://images.unsplash.com/photo-1580910051071-d5d8e380e7a6",
+    "sellerName": "Gautam Yadav",
+    "_id": "16aa36da-cfdf-4414-b3f0-2b80d2ac6003"
+  }
+]
